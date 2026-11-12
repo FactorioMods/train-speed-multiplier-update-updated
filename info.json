@@ -1,10 +1,16 @@
 {
-    "name": "Train-Speed-Multiplier-update",
-    "version": "1.0.2",
-    "title": "Train Speed Multiplier",
-    "author": "NotRexButCaesar",
-    "homepage": "",
-    "factorio_version": "2.0",
-    "dependencies": ["base"],
-    "description": "Multiplies the acceleration & braking force of locomotives by a value"
+  "name": "train-speed-multiplier-update-updated",
+  "version": "1.0.0",
+  "title": "Train Speed Multiplier: Updated",
+  "author": "NotRexButCaesar; FactorioMods (Factorio 2.1 port)",
+  "homepage": "",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.24",
+    "! Train-Speed-Multiplier-update"
+  ],
+  "description": "Factorio 2.1 compatibility fork of Train-Speed-Multiplier-update. Multiplies the acceleration & braking force of locomotives by a value",
+  "migrates_from": [
+    "Train-Speed-Multiplier-update"
+  ]
 }

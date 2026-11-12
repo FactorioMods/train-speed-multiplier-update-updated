@@ -1,0 +1,10 @@
+{
+    "name": "Train-Speed-Multiplier-update",
+    "version": "1.0.2",
+    "title": "Train Speed Multiplier",
+    "author": "NotRexButCaesar",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "dependencies": ["base"],
+    "description": "Multiplies the acceleration & braking force of locomotives by a value"
+}
